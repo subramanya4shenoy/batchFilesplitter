@@ -25,5 +25,5 @@ Y8a     a8P   Y8a.    .a8P  88     `8b   88  88               88
                                                                        
 
 #Place inside the folder and Click. and wait like 32458103 years 
-#open the script and make changes number of folders to split/ to change the file type. [default = *.txt]
+#open the script and make changes number of folders to split/ to change the file type. [default = *.txt] 
 
