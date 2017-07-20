@@ -22,10 +22,6 @@ CALL SET m=%%i%%
 
 SET n=1
 
-REM FOR /L %%i in (1,1,%m%) do call echo %%array[%%i]%%
-
-REM FOR %%f IN (*.txt) DO (
-
 FOR /L %%i in (1,1,%m%) DO (
   IF !n! == !foldercount! (
     MOVE /Y ./!array[%%i]! Folder!n!
