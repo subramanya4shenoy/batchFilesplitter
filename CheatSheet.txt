@@ -21,7 +21,7 @@ Y8a     a8P   Y8a.    .a8P  88     `8b   88  88               88
                                                                        
                                                                        
 
-#CREATE a folder named "files" inside the direcory. place a text file named "file_list.txt" inside this folder which should contain list of all file names to be filtered out.  
+#CREATE a folder named "file" inside the direcory. place a text file named "file_list.txt" inside this folder which should contain list of all file names to be filtered out.  
 
 |----file/
      |--file_list.txt
